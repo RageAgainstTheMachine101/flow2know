@@ -1,6 +1,6 @@
 [project]
 name = "flow2know"
-version = "0.4.1"
+version = "0.0.1"
 description = ""
 authors = [{ name = "Vladimir Klimov", email = "vladimir.klimov@hyperskill.org" }]
 readme = "README.md"
